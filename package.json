@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-force-https": "^1.0.0",
     "prerender-node": "^3.2.1"
   },
